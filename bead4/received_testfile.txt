@@ -1,0 +1,2 @@
+Ez egy tesztfájl a NetCopy alkalmazás ellenőrzésére.
+Ez a fájl több sorból áll, és arra szolgál, hogy teszteljük az átvitel helyességét.
